@@ -1,12 +1,16 @@
 # Web Design Challenge
 
 ## Overview:
-Creation of a visualization dashboard website of weather data using HTML, CSS, Bootstrap and Pandas tools.
+Assignment in which a visualization dashboard website was created for weather data using HTML, CSS, Bootstrap and Pandas tools.
 
 ## Data:
 
 
-## Workflow
+## Workflow:
+
+Using HTML, CSS and Bootstrap. 
+
+The website contains a main landing page 
 
 
 ![Image description](images/WebMain.png)
