@@ -10,3 +10,7 @@ Creation of a visualization dashboard website of weather data using HTML, CSS, B
 
 
 ![Image description](images/TumorResponse.png)
+
+![Image description](images/TumorResponse.png)
+
+![Image description](images/TumorResponse.png)
