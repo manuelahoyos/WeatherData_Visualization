@@ -13,7 +13,7 @@ Using HTML, CSS and Bootstrap.
 The website contains a main landing page 
 
 
-![Image description](images/Webmain.png)
+![Image description](images/WebMain.png)
 
 ![Image description](images/WebComparison.png)
 
