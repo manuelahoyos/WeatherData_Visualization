@@ -4,7 +4,7 @@
 Assignment in which a visualization dashboard website was created for weather data using HTML, CSS, Bootstrap and Pandas tools.
 
 ## Data:
-The dataset contains the city ID, city name, latitude, longitude of 546 cities. It also contains humidity, maximum temperature, wind speed and date of the measurements.
+The data was pulled from the OpenWeatherMap API to assemble a dataset of 546 cities. The dataset contains each city's ID, name, latitude and longitude. It also contains humidity, maximum temperature, wind speed and date of the measurements.
 
 ## Workflow:
 
