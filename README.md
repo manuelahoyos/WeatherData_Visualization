@@ -8,7 +8,7 @@ The dataset contains the city ID, city name, latitude, longitude of 546 cities. 
 
 ## Workflow:
 
-The dashboard was created using HTML and CSS was used for styling. Bootstrap was used for responsiveness to resizing and Pandas was used to deploy the dataset into the HTML data page.
+The dashboard was created with HTML and CSS was used for styling. Bootstrap was used for responsiveness to resizing and Pandas was used to deploy the dataset into the HTML data page.
 
 The website is composed of seven individual pages, each containing a graph that compares latitude to the other city characteristics in the dataset. The dashboard contains a navigation bar and a drop-down menu to navigate through the website. 
 
