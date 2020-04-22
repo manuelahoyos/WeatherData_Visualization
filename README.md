@@ -9,8 +9,8 @@ Creation of a visualization dashboard website of weather data using HTML, CSS, B
 ## Workflow
 
 
-![Image description](images/TumorResponse.png)
+![Image description](images/WebMain.png)
 
-![Image description](images/TumorResponse.png)
+![Image description](images/WebComparison.png)
 
-![Image description](images/TumorResponse.png)
+![Image description](images/WebData.png)
