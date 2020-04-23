@@ -1,4 +1,4 @@
-# Web Design Challenge
+# Weather Data Visualization
 
 ## Overview:
 Assignment in which a visualization dashboard website was created for weather data using HTML, CSS, Bootstrap and Pandas tools.
